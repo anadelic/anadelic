@@ -7,7 +7,7 @@ My background in Law has honed my critical thinking and problem-solving abilitie
 
 
 ## Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css, postgres, sass, tailwind, vscode, react, nextjs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,postgres,sass,tailwind,vscode,react,nextjs)](https://skillicons.dev)
 
 I am very excited to continue growing my skills!
 
