@@ -1,15 +1,19 @@
 ### Ana Delic 
 
 
-Hi, I'm Ana, a front-end developer with a background in Law. I come from Belgrade and I am living in Vienna for some time now. I am a mom of one.
-My background in Law has honed my critical thinking and problem-solving abilities, while my role as a mother has taught me the value of patience, adaptability and communication. All of that helps me along my learning journey where I hope to be able to contribute to the tech industry. 
+Hello, I'm Ana and I'm a web developer based in Vienna with a legal background. Throughout my law studies, I have sharpened my critical thinking and problem-solving abilities, which has been beneficial in my ongoing learning journey as a web developer.
 
+* I'm currently developing with JavaScript, TypeScript, React and Next.js.
+* Keen eye for detail
+* Understanding of the importance of compliance and data security
+* Excited to continue growing my skills!
 
 
 ## Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,postgres,sass,tailwind,vscode,react,nextjs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,postgres,sass,tailwind,vscode,react,nextjs,nodejs)](https://skillicons.dev)
 
-I am very excited to continue growing my skills!
+
+
 
 
 
