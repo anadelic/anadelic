@@ -9,6 +9,9 @@ Hello, I'm Ana and I'm a web developer based in Vienna with a legal background. 
 * Excited to continue growing my skills!
 
 
+linkedin.com/in/ana-delic-b9381626b
+
+
 ## Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,postgres,sass,tailwind,vscode,react,nextjs,nodejs)](https://skillicons.dev)
 
