@@ -7,7 +7,7 @@ Hello, I'm Ana and I'm a web developer based in Vienna with a legal background. 
  🤨 Keen eye for detail
  😁Excited to continue growing my skills!
 
-Feel free to send me and email: delicana148@gmail.com or connect with me on <https://www.linkedin.com/in/delicana421/>
+Feel free to send me and email: delicana148@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/delicana421/)
 
 
 
